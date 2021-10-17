@@ -46,3 +46,9 @@ The following list explains each mini-project a bit more detailed.
 - Use filter() to filter only millionaires
 - Use sort() to sort by wealth
 - Use reduce() to add all wealth
+
+### 6.Sliding Navigation Bar
+- Create and style landing page
+- Style side nav and modal
+- Add functionality to make menu open/close on button click
+- Add functionality to make modal open/close on button click
