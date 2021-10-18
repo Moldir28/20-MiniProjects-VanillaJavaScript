@@ -52,3 +52,12 @@ The following list explains each mini-project a bit more detailed.
 - Style side nav and modal
 - Add functionality to make menu open/close on button click
 - Add functionality to make modal open/close on button click
+
+### 7.Hangman Game
+- Display hangman pole and figure using SVG
+- Generate a random word
+- Display word in UI with correct letters
+- Display wrong letters
+- Show notification when select a letter twice
+- Show popup on win or lose
+- Play again button to reset game
