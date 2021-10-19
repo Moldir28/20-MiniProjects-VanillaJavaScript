@@ -61,3 +61,11 @@ The following list explains each mini-project a bit more detailed.
 - Show notification when select a letter twice
 - Show popup on win or lose
 - Play again button to reset game
+
+### 8.Meal Finder
+- Finds meals and recipes with the search keyword
+- Search and generate random meals from themealdb.com API
+- Display UI with form to search and button to generate random meal
+- Connect to API and get meals
+- Display meals in DOM with image and hover effect
+- Click on meal and see the details
