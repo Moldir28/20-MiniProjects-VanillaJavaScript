@@ -38,7 +38,7 @@ The following list explains each mini-project a bit more detailed.
 - Update values on amount change
 - Swap country rates
 
-### 5.DOM Array-Methods
+### 5. DOM Array-Methods
 
 - Fetch random users from the randomuser.me API
 - Use forEach() to loop and output user/wealth
@@ -47,13 +47,13 @@ The following list explains each mini-project a bit more detailed.
 - Use sort() to sort by wealth
 - Use reduce() to add all wealth
 
-### 6.Sliding Navigation Bar
+### 6. Sliding Navigation Bar
 - Create and style landing page
 - Style side nav and modal
 - Add functionality to make menu open/close on button click
 - Add functionality to make modal open/close on button click
 
-### 7.Hangman Game
+### 7. Hangman Game
 - Display hangman pole and figure using SVG
 - Generate a random word
 - Display word in UI with correct letters
@@ -62,10 +62,19 @@ The following list explains each mini-project a bit more detailed.
 - Show popup on win or lose
 - Play again button to reset game
 
-### 8.Meal Finder
+### 8. Meal Finder
 - Finds meals and recipes with the search keyword
 - Search and generate random meals from themealdb.com API
 - Display UI with form to search and button to generate random meal
 - Connect to API and get meals
 - Display meals in DOM with image and hover effect
 - Click on meal and see the details
+
+
+### 9. Expense Tracker 
+- Created basic expense tracker UI 
+- Adding the transactions to DOM 
+- Removing the items from DOM  
+- Updating the income, expense and the total amount in DOM
+- Persist to local storage
+
