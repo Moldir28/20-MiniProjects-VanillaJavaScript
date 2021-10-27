@@ -78,3 +78,9 @@ The following list explains each mini-project a bit more detailed.
 - Updating the income, expense and the total amount in DOM
 - Persist to local storage
 
+### 10. Music Player 
+- Creating custom music player UI
+- Adding play, pause button functionality
+- Navigating to the next / prev songs 
+- Creating custom progress bar
+- Adding animations on the image
