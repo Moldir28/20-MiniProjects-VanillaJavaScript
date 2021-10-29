@@ -84,3 +84,9 @@ The following list explains each mini-project a bit more detailed.
 - Navigating to the next / prev songs 
 - Creating custom progress bar
 - Adding animations on the image
+
+### 11.Infinit Scroll Posts 
+- Fetch data from "https://jsonplaceholder.typicode.com/posts" to get the posts
+- Display fetched posts with scrolling down the page 
+- Search bar to filter through the posts that match
+- Show custom loader when fetching more data 
