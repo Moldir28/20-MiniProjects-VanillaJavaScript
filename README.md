@@ -90,3 +90,10 @@ The following list explains each mini-project a bit more detailed.
 - Display fetched posts with scrolling down the page 
 - Search bar to filter through the posts that match
 - Show custom loader when fetching more data 
+
+### 12. Typing Game 
+- Created the basic UI for speed typing game 
+- Fetch the random words from https://random-words-api.vercel.app/word
+- Adjust the time depending on the difficulty of the game 
+- Save the difficulty settings to the local storage 
+- Increasing the score after word is typicode
