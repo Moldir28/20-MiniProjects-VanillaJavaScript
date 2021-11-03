@@ -97,3 +97,10 @@ The following list explains each mini-project a bit more detailed.
 - Adjust the time depending on the difficulty of the game 
 - Save the difficulty settings to the local storage 
 - Increasing the score after word is typicode
+
+### 13. Speech text reader 
+- Created the images cards with grid 
+- Worked with https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
+- Upon clicking on the button the text is read
+- Drop down custom textarea, where the typed text can be read loud
+- Select options with different voices 
