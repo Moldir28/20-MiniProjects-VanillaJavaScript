@@ -96,4 +96,4 @@ The following list explains each mini-project a bit more detailed.
 - Fetch the random words from https://random-words-api.vercel.app/word
 - Adjust the time depending on the difficulty of the game 
 - Save the difficulty settings to the local storage 
-- Increasing the score after word is typicode
+- Increasing the score after word is typed
