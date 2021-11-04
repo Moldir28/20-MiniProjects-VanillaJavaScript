@@ -116,4 +116,3 @@ The following list explains each mini-project a bit more detailed.
 - Simple Breathing App
 - Applied animation on the circle that changes with the time 
 - JavaScript sets time for breathing
-- Depending on the time animated circle grows & shrinks
