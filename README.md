@@ -121,5 +121,5 @@ The following list explains each mini-project a bit more detailed.
 - Data is fetched from lyrics.ovh API
 - Search for lyrics entering the name of the song/ artist
 - Display the list of the songs & artists on the DOM 
-- Add pagination
+- Added pagination
 
