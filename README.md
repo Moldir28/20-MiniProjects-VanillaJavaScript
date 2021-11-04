@@ -115,8 +115,7 @@ The following list explains each mini-project a bit more detailed.
 ### 15. Relaxer App 
 - Simple Breathing App
 - Applied animation on the circle that changes with the time 
-- JavaScript sets time for breathing
-- Depending on the time animated circle grows & shrinks
+- Setting the time with JS
 
 ### 16.Song lyrics search app 
 - Data is fetched from lyrics.ovh API
