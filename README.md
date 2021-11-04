@@ -104,3 +104,10 @@ The following list explains each mini-project a bit more detailed.
 - Upon clicking on the button the text is read
 - Drop down custom textarea, where the typed text can be read loud
 - Select options with different voices 
+
+
+### 14. Memory Cards 
+- Create cards that flip the question/answer 
+- View prev/next cards with question/answer
+- Clear the cards from the local storage wth clear button
+- Add new cards with question/answer and save it to the local storage 

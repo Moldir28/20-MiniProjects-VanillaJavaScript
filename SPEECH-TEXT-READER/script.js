@@ -84,8 +84,6 @@ function createBox(item) {
 // init speechSynthesis , docs: https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 
 const message = new SpeechSynthesisUtterance();
-
-
 let voices = [];
 
 function getVoices() {
