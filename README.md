@@ -117,3 +117,10 @@ The following list explains each mini-project a bit more detailed.
 - Applied animation on the circle that changes with the time 
 - JavaScript sets time for breathing
 - Depending on the time animated circle grows & shrinks
+
+### 16.Song lyrics search app 
+- Data is fetched from lyrics.ovh API
+- Search for lyrics entering the name of the song/ artist
+- Display the list of the songs & artists on the DOM 
+- Add pagination
+
