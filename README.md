@@ -130,3 +130,8 @@ The following list explains each mini-project a bit more detailed.
 - Add key event listners to move the paddle
 - Add collision detection
 - Track the score of the game and restart once it is over 
+
+### 18. New Year Countdown 
+- Simple UI displaying the countdown to the next new year 
+- Show spinner before the countdown is loaded 
+- Calculate the days, minutes  and seconds to the new year and inserted to DOM
