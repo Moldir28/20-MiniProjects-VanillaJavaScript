@@ -121,5 +121,12 @@ The following list explains each mini-project a bit more detailed.
 - Data is fetched from lyrics.ovh API
 - Search for lyrics entering the name of the song/ artist
 - Display the list of the songs & artists on the DOM 
-- Add pagination
+- Added pagination
 
+
+### 17. BreakOut Game!
+- Draw elements on canvas 
+- Add animation to the elements with requestAnimationFrame(cb)
+- Add key event listners to move the paddle
+- Add collision detection
+- Track the score of the game and restart once it is over 
