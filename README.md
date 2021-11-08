@@ -145,7 +145,7 @@ The following list explains each mini-project a bit more detailed.
 
 
 ### 20. Speak Number Guessing Name
-- Implemented speech recognition and listen to microphone
+- Implemented speech recognition
 - Generate random number and check if the user has guessed the number by speaking it loud
 - Process the words user says and match the random number
 - If the spoken number is less than the random number, let user know to go higher. If the number is too high, then let user know to go lower.
