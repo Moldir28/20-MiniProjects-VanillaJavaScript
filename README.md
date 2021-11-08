@@ -135,3 +135,17 @@ The following list explains each mini-project a bit more detailed.
 - Simple UI displaying the countdown to the next new year 
 - Show spinner before the countdown is loaded 
 - Calculate the days, minutes  and seconds to the new year and inserted to DOM
+
+### 19.Sortable List 
+- Created ordered list with Top 10 richest people
+- Randomize the list and display it on the DOM
+- Allow users to drag and drop the items
+- Check-button to check if the list item are in order
+- If the list items are on the right spot highlight it in green, if not highlight it in red 
+
+
+### 20. Speak Number Guessing Name
+- Implemented speech recognition and listen to microphone
+- Generate random number and check if the user has guessed the number by speaking it loud
+- Process the words user says and match the random number
+- If the spoken number is less than the random number, let user know to go higher. If the number is too high, then let user know to go lower.
